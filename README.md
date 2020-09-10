@@ -1,1 +1,1 @@
-# probacucc
+Ez egy rövid leírás a programozásról.
