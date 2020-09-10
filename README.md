@@ -1,1 +1,1 @@
-Ez egy rövid leírás a programozásról.
+Ez egy rövid leírás a programozásról. Git példa videó.
